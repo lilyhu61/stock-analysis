@@ -42,7 +42,9 @@ Refactoring is a key part of the coding process. When refactoring code, you aren
 **4. The script loops through stock data, reading and storing all of the following values from each row: tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices.**
  
 **5. Code for formatting the cells in the spreadsheet is working.**
+
 **6. There are comments to explain the purpose of the code.**
+
 **7. The outputs for the 2017 and 2018 stock analyses in the VBA_Challenge.xlsm workbook match the outputs from the AllStockAnalysis in the module.**
 
    >***Dataset Examples provided***
@@ -68,13 +70,12 @@ Refactoring is a key part of the coding process. When refactoring code, you aren
    
    > ***Time on VBA_Challenge_2017.PNG***
    
-     ![VBA_Challenge_2017](https://user-images.githubusercontent.com/95242493/147426393-fee4941f-9c2c-4923-908f-3e5b2fbe4732.png)
-   
+   ![Screen Shot 2021-12-26 at 9 58 24 PM](https://user-images.githubusercontent.com/95242493/147436061-a6b2c481-8e34-4485-a7ea-5448e9ca5859.png) 
    
    > ***Time on VBA_Challenge_2018.PNG***
    
-     ![VBA_Challenge_2018](https://user-images.githubusercontent.com/95242493/147426442-9294c4ef-8600-4b14-8ca4-11d6fb5012f0.png)
-     
+    ![Screen Shot 2021-12-26 at 10 00 08 PM](https://user-images.githubusercontent.com/95242493/147436205-1c29c627-87b4-4034-af65-89cfe965a904.png)   
+    
  ## SUMMARY
  ### 1. What are the advantages or disadvantages of refactoring code? 
  ###    Advantages:
