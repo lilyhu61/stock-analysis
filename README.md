@@ -53,12 +53,16 @@ Refactoring is a key part of the coding process. When refactoring code, you aren
    
    >***Final VBA Analysis 2017***
    
-     ![image](https://user-images.githubusercontent.com/95242493/147425896-61bc1c4f-6a11-4cbb-8c64-9b66058576bc.png)
+    All Stocks (2017)		
+		
+![image](https://user-images.githubusercontent.com/95242493/147435578-9fbb4e83-9fe7-4b70-ad34-c7018052b513.png)
+
 
    >***Final VBA Analysis 2018***
 		
-     ![image](https://user-images.githubusercontent.com/95242493/147425984-938ea28f-146a-4843-b115-233e9aa7790d.png)
-     
+     All Stocks (2018)		
+![image](https://user-images.githubusercontent.com/95242493/147435681-8e4b8680-9263-43e6-826d-bc7cb7ee6c39.png)
+
 **8. The pop-up messages showing the elapsed run time for the script are saved as VBA_Challenge_2017.png and VBA_Challenge_2018.png**
    > Running our fully 2017 and 2018 data stock analysis gave us an elapsed run time for each year, below our results.
    
