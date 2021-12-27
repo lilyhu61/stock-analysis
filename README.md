@@ -1,6 +1,6 @@
-# ALL STOCKS ANALYSIS CHALLENGE WITH VBA
+# ALL STOCKS ANALYSIS REFACTORED CHALLENGE WITH VBA
 
-## Overview of project
+## OVERVIEW OF PROJECT
 ### Purpose
 
 In this project, we try to write VBA solution code for Steve that click of a button, he can analyze an entire dataset, and he can expand the dataset to conclude the entire stock market over the last few years. Although the code should work well for a dozen stocks and for thousands of stocks as well, and should reduce execution time. In this challenge, we will edit, or refactor, make the code more efficient Ð by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read.
