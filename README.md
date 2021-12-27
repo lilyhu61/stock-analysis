@@ -73,8 +73,12 @@ Refactoring is a key part of the coding process. When refactoring code, you aren
    ![Screen Shot 2021-12-26 at 9 58 24 PM](https://user-images.githubusercontent.com/95242493/147436061-a6b2c481-8e34-4485-a7ea-5448e9ca5859.png) 
    
    > ***Time on VBA_Challenge_2018.PNG***
+
+
+   ![Screen Shot 2021-12-26 at 10 04 42 PM](https://user-images.githubusercontent.com/95242493/147436353-e927cb2b-ad22-43fb-a0a4-822bc4479a40.png)
+
    
-    ![Screen Shot 2021-12-26 at 10 00 08 PM](https://user-images.githubusercontent.com/95242493/147436205-1c29c627-87b4-4034-af65-89cfe965a904.png)   
+  
     
  ## SUMMARY
  ### 1. What are the advantages or disadvantages of refactoring code? 
