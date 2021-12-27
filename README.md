@@ -17,18 +17,18 @@ Refactoring is a key part of the coding process. When refactoring code, you aren
  ```
      '1a) Create a ticker Index
      
-    For i = 0 To 11
-        tickerIndex = tickers(i)
+       For i = 0 To 11
+          tickerIndex = tickers(i)
 ```  
 **2. Arrays are created for tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices.**
  ```
- '1b) Create three output arrays
-    Dim tickerVolumes As Long
-    Dim tickerStartingPrice As Single
-    Dim tickerEndingPrice As Single
+      '1b) Create three output arrays
+       Dim tickerVolumes As Long
+       Dim tickerStartingPrice As Single
+       Dim tickerEndingPrice As Single
  ```   
 **3. The tickerIndex is used to access the stock ticker index for the tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices arrays.**
-    ``` 
+ ``` 
     Worksheets(yearValue).Activate
     tickerVolumes = 0
         
@@ -38,7 +38,7 @@ Refactoring is a key part of the coding process. When refactoring code, you aren
            '3a) Increase volume for current ticker
             
               If Cells(j, 1) = tickerIndex Then
-     ``` 
+  ``` 
 **4. The script loops through stock data, reading and storing all of the following values from each row: tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices.**
  
 **5. Code for formatting the cells in the spreadsheet is working.**
@@ -70,7 +70,19 @@ Refactoring is a key part of the coding process. When refactoring code, you aren
    > ***Time on VBA_Challenge_2018.PNG***
    
      ![VBA_Challenge_2018](https://user-images.githubusercontent.com/95242493/147426442-9294c4ef-8600-4b14-8ca4-11d6fb5012f0.png)
-  
      
-     
-     
+ ## SUMMARY
+ ### 1. What are the advantages or disadvantages of refactoring code? 
+ ###    Advantages:
+     - Make the VBA script run faster.
+     - Make the code more efficient, using less memory.
+     - Improving the logic of the code to make it easier for future users to read.  
+     - Maintainability and scalability.    
+###    Disadvantages:
+    - Might have to retest lots of functionality.
+    - Refactoring process can affect the testing outcomes.
+### 2. How do these pros and cons apply to refactoring the original VBA script? 
+       Code Refactoring is an important exercise to remove code smell. It helps to find bugs, makes programs run 
+       faster, it's easier to understand the code, improves the design of software, etc. Code smell slows down 
+       the development and is prone to more defects. An adequate set of unit tests and a supportive environment
+       should be there for code refactoring.
